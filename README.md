@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, my name is Edwin natanael romero
 
-<!--
-**edwromero/edwromero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![I am a Jr.front-end developer and freelancer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Here are some ideas to get you started:
+I'm a junior developer in  process. In 2019 I left my career in systems analyst to move to Brazil. In this 2021 I have resumed my studies privately, which has concluded in a wide practical knowledge of different tools and technologies focused on the front-end. However, I can see that this path is just beginning and I am also expanding my horizons towards the Back-end and android development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: HTML/CSS/JAVASCRIPT/BOOTSTRAP/NODEJS/JQUERY
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
+SKILLS:
+![Javascript](https://img.shields.io/badge/Javascript-javascript-green)
