@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Edwin natanael romero
-I'm a junior developer in  process. In 2019 I left my career in systems analyst to move to Brazil. In this 2021 I have resumed my studies privately, which has concluded in a wide practical knowledge of different tools and technologies focused on the front-end. However, I can see that this path is just beginning and I am also expanding my horizons towards the Back-end and android development.
+I'm a junior developer in  process. In 2019 I left my career in systems analyst to move to Brazil. In this 2021 I have resumed my studies privately, which has concluded in a wide practical knowledge of different tools and technologies focused on the front-end. However, I can see that this path is just beginning and I am also expanding my horizons towards the Back-end and android development.I am currently studying systems programmer at SENAC University in Florianopolis.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwromero&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwromero&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
