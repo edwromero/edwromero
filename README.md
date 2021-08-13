@@ -23,7 +23,7 @@ I'm a junior developer in  process. In 2019 I left my career in systems analyst 
 
 
 ### Contact:
-  ![Ban](https://img.shields.io/badge/LinkedIn-0077b5?username=edwin-natanael-romero-766110216/style=for-the-badge&logo=linkedin&logoColor=white)
+  ![Ban](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)
   https://www.linkedin.com/in/edwin-natanael-romero-766110216/.
 
   
