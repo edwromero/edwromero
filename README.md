@@ -8,7 +8,6 @@ I'm a junior developer in  process. In 2019 I left my career in systems analyst 
   ![Ban](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white).
   ![Ban](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white).
   ![Ban](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white).
-  ![Ban](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white).
   ![Ban](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white).
   ![Ban](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white).
   ![Ban](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white).
@@ -24,6 +23,6 @@ I'm a junior developer in  process. In 2019 I left my career in systems analyst 
 
 ### Contact:
   ![Ban](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)
-  https://www.linkedin.com/in/edwin-natanael-romero-766110216/.
+  https://www.linkedin.com/in/edwromero/.
 
   
